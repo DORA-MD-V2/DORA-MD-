@@ -9,7 +9,7 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <a href="https://raw.githubusercontent.com/Dark-Robin/Bot-Helper/refs/heads/main/autoimage/Bot%20robin%20iz%20alive.jpg">
     <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
     
   
